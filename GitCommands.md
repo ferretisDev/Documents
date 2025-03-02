@@ -1,5 +1,5 @@
 # Comandos de Git
-### PPara ver todas las ramas locales.
+### Para ver todas las ramas locales.
 ```
 git branch
 ```
@@ -23,7 +23,6 @@ git pull origin [branch]
 ```
 git status
 ```
-
 ### Para clonar un repositorio a local.
 ```
 git clone [https code]
