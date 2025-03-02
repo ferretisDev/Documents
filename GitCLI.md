@@ -1,14 +1,14 @@
 # Comandos de Git
 ### Para clonar un repositorio a local.
-```css
+```ruby
 git clone [https code]
 ```
 ### Para ver todas las ramas locales.
-```css
+```js
 git branch
 ```
 ### Para ver todas las ramas locales y remotas.
-```css
+```python
 git branch -a
 ```
 ### Para buscar cambios en rama remota.
