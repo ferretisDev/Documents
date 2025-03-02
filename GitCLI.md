@@ -1,6 +1,6 @@
 # Comandos de Git
 ### Para clonar un repositorio a local.
-```ruby
+```css
 git clone [https code]
 ```
 ### Para ver todas las ramas locales.
