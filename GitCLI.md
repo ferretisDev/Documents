@@ -1,29 +1,29 @@
 # Comandos de Git
 ### Para clonar un repositorio a local.
-```css
+```ruby
 git clone [https code]
 ```
 ### Para ver todas las ramas locales.
-```js
+```ruby
 git branch
 ```
 ### Para ver todas las ramas locales y remotas.
-```python
+```ruby
 git branch -a
 ```
 ### Para buscar cambios en rama remota.
-```css
+```ruby
 git fetch
 ```
 ### Para traer cambios de rama remota.
-```css
+```ruby
 git pull
 ```
 ### Para traer cambios de otra rama.
-```css
+```ruby
 git pull origin [branch]
 ```
 ### Para validar cambios.
-```css
+```ruby
 git status
 ```
